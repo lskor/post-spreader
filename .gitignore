@@ -1,0 +1,11 @@
+*.class
+*.log
+
+.idea/
+
+.bsp
+
+target/
+
+bot.log
+scraper.log
