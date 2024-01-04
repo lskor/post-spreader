@@ -22,5 +22,7 @@ lazy val root = (project in file("."))
       "org.augustjune" %% "canoe" % Dependencies.canoeVersion,
       "org.typelevel" %% "log4cats-slf4j" % Dependencies.log4CatsVersion,
       "ch.qos.logback" % "logback-classic" % Dependencies.logbackClassic,
+      "org.jsoup" % "jsoup" % Dependencies.jsoup,
+      "org.scalatest" %% "scalatest" % Dependencies.scalaTestVersion % Test
     )
   )

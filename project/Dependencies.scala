@@ -9,5 +9,5 @@ object Dependencies {
   val jsoup = "1.16.1"
   val doobieVersion = "1.0.0-RC1"
   val postgresql = "42.6.0"
-  val scalaTestVersion = "3.2.12"
+  val scalaTestVersion = "3.2.15"
 }
